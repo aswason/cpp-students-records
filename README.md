@@ -1,1 +1,2 @@
 # cpp-students-records
+For this week assignment we created a c++ file called cpp-student-records. We implemented functions like enum to define grade levels, typedef or using to simplify data type definitions ,using the string class we stored the student names and used a custom namespace to group student related functions. In order to compile and run it in GitHub Codespaces First you open the GitHub repository and name your file cpp-students-records After that you launch Codepaces and select the file Next in the terminal you compile the program and run the program
